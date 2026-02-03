@@ -1,0 +1,115 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-wheel-metadata/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# Virtualenv
+venv/
+ENV/
+env/
+.venv/
+venv.bak/
+env.bak/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.spyderproject
+.spyproject
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite3
+
+# Model weights, checkpoints and results
+# *.pth
+# *.pt
+# *.ckpt
+# checkpoints/
+# models_pth/
+# results/
+logs/
+*.h5
+
+# Datasets and large files
+datasets/
+data/
+*.tar
+*.gz
+*.tgz
+
+# Images and intermediate outputs
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# Environment files
+.env
+.env.*
+
+# Misc
+*.pem
