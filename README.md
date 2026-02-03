@@ -1,0 +1,2 @@
+# LKC-FUNet
+A UNet with large kernel convolution (LKC) is proposed to achieve multimodal image fusion, namely LKC-FUNet, including infrared and visible image fusion and medical image fusion (MIF). LKC-FUNet significantly improves multiple metrics in both tasks and achieves breakthroughs in MIF visualization. It is also shown to facilitate downstream multimodal object detection and semantic segmentation.
