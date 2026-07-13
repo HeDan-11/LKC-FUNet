@@ -5,6 +5,15 @@ This repository contains the official implementation code for LKC-FUNet.
 
 A UNet with large kernel convolution (LKC) is proposed to achieve multimodal image fusion, namely LKC-FUNet, including infrared and visible image fusion and medical image fusion (MIF). LKC-FUNet significantly improves multiple metrics in both tasks and achieves breakthroughs in MIF visualization. It is also shown to facilitate downstream multimodal object detection and semantic segmentation.
 
+## pre-train weight
+If the pre-trained model is not available, please see the Baidu Netdisk link below:
+
+Link: https://pan.baidu.com/s/1vg-MbYzUtCD0_gbvwm5KNA?pwd=r9qz
+
+Access code: r9qz 
+
+
+
 ## Citation
 If this code is helpful, please cite the corresponding paper.:
 
